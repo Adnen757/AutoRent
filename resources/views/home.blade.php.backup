@@ -1,0 +1,63 @@
+</div>
+<div
+    class="absolute bottom-0 right-0 w-64 h-64 bg-amber-50 rounded-full mix-blend-multiply filter blur-3xl opacity-70 translate-x-1/2 translate-y-1/2">
+</div>
+
+<div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 relative z-10">
+    <div class="text-center mb-16">
+        <span class="text-primary font-bold tracking-wider uppercase text-sm">Pourquoi nous choisir</span>
+        <h2 class="text-4xl font-bold text-slate-900 mt-2 mb-4">Nos Services Premium</h2>
+        <p class="text-lg text-slate-600 max-w-2xl mx-auto">Nous ne nous contentons pas de louer des voitures, nous
+            vous offrons une expérience complète.</p>
+    </div>
+
+    <div class="grid grid-cols-1 md:grid-cols-3 gap-10">
+        <div
+            class="bg-slate-50 p-10 rounded-3xl hover:bg-white hover:shadow-xl transition-all duration-300 group border border-transparent hover:border-slate-100">
+            <div
+                class="w-16 h-16 bg-blue-100 rounded-2xl flex items-center justify-center text-3xl mb-6 group-hover:scale-110 transition-transform duration-300 text-primary">
+                🚗
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-4">Large Flotte Premium</h3>
+            <p class="text-slate-600 leading-relaxed">Des citadines agiles aux SUVs spacieux, en passant par les
+                berlines de luxe. Nous avons le véhicule parfait pour chaque occasion.</p>
+        </div>
+        <div
+            class="bg-slate-50 p-10 rounded-3xl hover:bg-white hover:shadow-xl transition-all duration-300 group border border-transparent hover:border-slate-100">
+            <div
+                class="w-16 h-16 bg-amber-100 rounded-2xl flex items-center justify-center text-3xl mb-6 group-hover:scale-110 transition-transform duration-300 text-amber-600">
+                🛡️
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-4">Assurance Complète</h3>
+            <p class="text-slate-600 leading-relaxed">Roulez l'esprit tranquille. Notre couverture tous risques
+                incluse vous protège, vous et vos passagers, en toutes circonstances.</p>
+        </div>
+        <div
+            class="bg-slate-50 p-10 rounded-3xl hover:bg-white hover:shadow-xl transition-all duration-300 group border border-transparent hover:border-slate-100">
+            <div
+                class="w-16 h-16 bg-green-100 rounded-2xl flex items-center justify-center text-3xl mb-6 group-hover:scale-110 transition-transform duration-300 text-green-600">
+                🎧
+            </div>
+            <h3 class="text-xl font-bold text-slate-900 mb-4">Support 24/7</h3>
+            <p class="text-slate-600 leading-relaxed">Une question ? Un imprévu ? Notre équipe dédiée est disponible
+                à tout moment pour vous assister, où que vous soyez.</p>
+        </div>
+    </div>
+</div>
+</div>
+
+<!-- CTA Section -->
+<div class="py-20 bg-slate-900 text-white relative overflow-hidden">
+    <div class="absolute inset-0 opacity-20 bg-[url('https://www.transparenttextures.com/patterns/carbon-fibre.png')]">
+    </div>
+    <div class="max-w-5xl mx-auto px-4 text-center relative z-10">
+        <h2 class="text-4xl font-bold mb-6">Prêt à prendre la route ?</h2>
+        <p class="text-xl text-slate-300 mb-10 max-w-2xl mx-auto">Réservez votre véhicule dès aujourd'hui et profitez de
+            nos offres exclusives.</p>
+        <a href="{{ route('cars.index') }}"
+            class="inline-block bg-primary hover:bg-blue-600 text-white font-bold py-4 px-10 rounded-full transition-all duration-300 shadow-lg hover:shadow-blue-500/50 transform hover:-translate-y-1">
+            Réserver une voiture
+        </a>
+    </div>
+</div>
+@endsection
