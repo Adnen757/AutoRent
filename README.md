@@ -14,7 +14,13 @@
 </div>
 
 ---
-
+<img width="1893" height="987" alt="auto1" src="https://github.com/user-attachments/assets/e363cd0f-0357-4e88-8cbb-e498dd75faaa" />
+<img width="1888" height="986" alt="auto2" src="https://github.com/user-attachments/assets/922a6c9e-3ba2-4b09-aef4-06f083f83bf2" />
+<img width="1885" height="973" alt="auto3" src="https://github.com/user-attachments/assets/be45e7aa-33d0-4654-ad2e-5bc388d84fe7" />
+<img width="1881" height="946" alt="auto4" src="https://github.com/user-attachments/assets/b8aae265-c1fd-4a0d-b8fd-8ea069b4fa3a" />
+<img width="1882" height="966" alt="auto5" src="https://github.com/user-attachments/assets/964e1618-20df-4f2a-a737-c3a2f3d66ce0" />
+<img width="1888" height="992" alt="auto6" src="https://github.com/user-attachments/assets/be32580f-6d5f-4789-a9ac-d0e894f00a84" />
+<img width="1871" height="995" alt="auto7" src="https://github.com/user-attachments/assets/0d7ab2fd-6729-41c6-93e3-964d59093531" />
 ## ✨ Aperçu
 
 AutoRent est une application web complète de gestion de location de voitures construite avec Laravel. Elle offre une interface utilisateur moderne et intuitive pour les clients, ainsi qu'un panneau d'administration puissant pour gérer l'ensemble des opérations.
@@ -284,13 +290,7 @@ Ce projet est sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
 
 
 
-<img width="1893" height="987" alt="auto1" src="https://github.com/user-attachments/assets/e363cd0f-0357-4e88-8cbb-e498dd75faaa" />
-<img width="1888" height="986" alt="auto2" src="https://github.com/user-attachments/assets/922a6c9e-3ba2-4b09-aef4-06f083f83bf2" />
-<img width="1885" height="973" alt="auto3" src="https://github.com/user-attachments/assets/be45e7aa-33d0-4654-ad2e-5bc388d84fe7" />
-<img width="1881" height="946" alt="auto4" src="https://github.com/user-attachments/assets/b8aae265-c1fd-4a0d-b8fd-8ea069b4fa3a" />
-<img width="1882" height="966" alt="auto5" src="https://github.com/user-attachments/assets/964e1618-20df-4f2a-a737-c3a2f3d66ce0" />
-<img width="1888" height="992" alt="auto6" src="https://github.com/user-attachments/assets/be32580f-6d5f-4789-a9ac-d0e894f00a84" />
-<img width="1871" height="995" alt="auto7" src="https://github.com/user-attachments/assets/0d7ab2fd-6729-41c6-93e3-964d59093531" />
+
 
 
 <div align="center">
